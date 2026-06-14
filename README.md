@@ -1,36 +1,159 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📚 Dr. Arun Kumar – Digital Literary Archive
 
-## Getting Started
+> Preserving a Lifetime of Scholarship, Literature, and Intellectual Legacy
 
-First, run the development server:
+## 🌟 Overview
+
+**Dr. Arun Kumar – Digital Literary Archive** is a modern, interactive, and immersive web platform dedicated to preserving the academic, literary, and intellectual contributions of **Dr. Arun Kumar**, a distinguished Hindi scholar, literary critic, author, researcher, and former Head of the Hindi Department at Ranchi University.
+
+This project serves as a **digital museum, literary archive, and legacy platform**, showcasing decades of contributions to Hindi literature, literary criticism, cinema studies, cultural discourse, and academic research.
+
+---
+
+## ✨ Key Features
+
+### 👨‍🏫 Academic Journey
+- Educational background
+- Professional milestones
+- Academic achievements
+- Interactive career timeline
+
+### 📖 Publications Archive
+- Books and publications
+- Literary criticism
+- Research papers
+- Essays and articles
+
+### 📚 Digital Library
+- Personal library showcase
+- Reading collections
+- Literary resources
+- Interactive bookshelf experience
+
+### 🎤 Events & Conferences
+- Literary conferences
+- Academic seminars
+- Public lectures
+- Book launch programs
+
+### 🖼️ Photo Gallery
+- Personal memories
+- Academic events
+- Literary gatherings
+- Conference archives
+
+### 📜 Legacy Timeline
+- Career highlights
+- Major publications
+- Research contributions
+- Significant achievements
+
+### 🤖 AI Literary Assistant
+- Explore publications
+- Learn about contributions
+- Discover research work
+- Interactive visitor experience
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Shadcn UI
+
+### Animations & Experience
+- Framer Motion
+- GSAP
+- Three.js
+
+### Features
+- Responsive Design
+- SEO Optimized
+- Accessibility Friendly
+- Modern UI/UX
+- Fast Performance
+
+---
+
+## 🎯 Vision
+
+The goal of this project is to preserve and celebrate the scholarly legacy of Dr. Arun Kumar by creating a permanent digital archive that remains accessible to students, researchers, educators, literature enthusiasts, and future generations.
+
+---
+
+## 🚀 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/arun-kumar-literary-legacy.git
+```
+
+Navigate to the project:
+
+```bash
+cd arun-kumar-literary-legacy
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📂 Project Structure
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+src/
+├── app/
+├── components/
+├── sections/
+├── data/
+├── assets/
+├── hooks/
+├── lib/
+└── styles/
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📚 Areas of Contribution
 
-## Deploy on Vercel
+- Hindi Literature
+- Literary Criticism
+- Cinema Studies
+- Cultural Studies
+- Academic Research
+- Language & Society
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🌍 Purpose
+
+This archive is designed to document, preserve, and share Dr. Arun Kumar's lifelong dedication to literature, education, research, and intellectual discourse, ensuring his work continues to inspire future generations.
+
+---
+
+## 👨‍💻 Developed With Passion
+
+A tribute to scholarship, literature, and the enduring power of knowledge.
+
+**"Preserving the Past. Inspiring the Future."**
